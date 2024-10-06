@@ -1,6 +1,0 @@
-export("NbClust")
-
-importFrom("graphics", "par")
-importFrom("stats", "as.dist", "complete.cases", "cov", "cutree",
-           "dist", "hclust", "kmeans", "median", "na.omit", "pf",
-           "runif", "sd", "var")
